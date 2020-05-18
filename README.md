@@ -1,3 +1,1 @@
-# Trakalorie
-# Trakalori
 # Trakalori
